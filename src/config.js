@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('vesion2');
+console.log('vesion3');
